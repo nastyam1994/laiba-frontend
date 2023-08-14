@@ -1,6 +1,6 @@
-## Laiba Frontend
+# Laiba Frontend
 
-This repository contains the frontend codebase for the HotDog WeChat mini-program. It's built using a framework tailored for mobile applications, ensuring a smooth user experience. This project was created as a project for batch #1178 of Le Wagon's web development bootcamp.
+This repository contains the frontend codebase for the Laiba WeChat mini-program. It's built using a framework tailored for mobile applications, ensuring a smooth user experience. This project was created as a project for batch #1178 of Le Wagon's web development bootcamp.
 
 ## Contributors
 
